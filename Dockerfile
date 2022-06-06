@@ -1,1 +1,1 @@
-FROM chasiq/chasiq
+FROM chaskiq/chaskiq
