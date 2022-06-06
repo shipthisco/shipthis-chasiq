@@ -1,1 +1,1 @@
-FROM chasiq/chasiq:latest
+FROM chasiq/chasiq
